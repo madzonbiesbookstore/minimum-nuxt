@@ -1,3 +1,9 @@
 <template>
-  <h1>Hello world!</h1>
+  
+  <p>
+    <NuxtLink to="/fun/fun">
+      link to fun
+    </NuxtLink>
+  </p>
+  
 </template>
